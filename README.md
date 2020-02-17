@@ -22,29 +22,40 @@ The following are some global research internship positions:
 * stipend: CHF 1750 
   #### Deadline: 15 December
   
-### 4. [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/), for computer science students
+### 4. [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/)
+* for computer science students
 
-### 5. [EPFL E3 Program](https://eee.epfl.ch/e3program-at-a-glance/), by EPFL University in Switzerland
+### 5. [EPFL E3 Program](https://eee.epfl.ch/e3program-at-a-glance/)
+* By EPFL University in Switzerland
   #### Deadline: 31 January
   
 ### 6. [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
 * To do research in USA industries along with UCLA Maths Department 
   #### Deadline: 13 February
   
-### 7. [Summer at EPFL](https://ic.epfl.ch/SummerAtEPFL), for circuital branch students
+### 7. [Summer at EPFL](https://ic.epfl.ch/SummerAtEPFL)
+* For circuital branch students
   #### Deadline: 15 November
 
 ### 8. [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU
 * Best Internship for students whose interest in the field of control system and robotics
   #### Deadline: 15 January
 
-### 9. [KAUST Summer Internship](http://spike.unist.ac.kr/main/main.php), Summer Program for Internship and Korean Experience
+### 9. [KAUST Summer Internship](http://spike.unist.ac.kr/main/main.php)
+* Summer Program for Internship in Saudi Arabia
 #### Eligibility : CGPA>=8
 #### Applications accepted year-round.
 
-10. [NTHU Summer Internship Program](http://eng-en.web.nthu.edu.tw/files/14-1130-129169,r1447-1.php)
-11. [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/schools/research-experiences-undergraduates)
-12. [UROP International](http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1), RWTH Aachen
+### 10. [Hybrid NanoTechnology, New York University](https://engineering.nyu.edu/research/student-research/undergraduate-summer-research-program)
+#### *** Only For Female Students
+#### Eligibility : CGPA>=8
+#### DeadLine: 28 October.
+
+### 11. [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/schools/research-experiences-undergraduates)
+
+### 12. [UROP International](http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1), RWTH Aachen
+#### Deadline: January 15
+
 13. [University of Tokyo](http://www.amgenscholars.com/japan-program), Agmen Scholarship Japan (only Bio Tech and Bio-Chem Programs)
 14. [MTBI Summer Program](https://mtbi.asu.edu/summerprogram), Arizona State University
 15. [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute
