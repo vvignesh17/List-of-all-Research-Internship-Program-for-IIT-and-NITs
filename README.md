@@ -13,7 +13,7 @@ The following are some global research internship positions:
    #### Deadline: 18 September
 
 ### 2. [DAAD Wise Scholarship](https://www.daad.de/deutschland/stipendium/datenbank/en/15342-you-are-interested-in-a-daad-scholarship/), for research positions in Germany
-#### Eligibility : CGPA>=9.5-9.
+#### Eligibility : CGPA>=9.5-9.6
 * For this the student should have acceptance letter from German Professor
 * stipend: EUR 750 per month
 * Airfare: EUR 1075
@@ -35,7 +35,8 @@ The following are some global research internship positions:
   #### Deadline: 13 February
   
 ### 7. [Summer at EPFL](https://ic.epfl.ch/SummerAtEPFL)
-* For circuital branch students
+
+
   #### Deadline: 15 November
 
 ### 8. [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU
@@ -88,14 +89,38 @@ The following are some global research internship positions:
 * Best for Chemical Engineering, Power Mechanical Engineering, Materials Science Engineering, Industrial Engineering and Engineering Management, Nanoengineering and Microsystems, Biomedical Engineering
 #### Deadline: 10 January
 
-### 19. [CalTech SURF Program](https://www.sfp.caltech.edu/programs/surf/application_information)
-20. [TIGP-IIP](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan
+### 22. [CalTech SURF Program](https://www.sfp.caltech.edu/programs/surf/application_information)
+* Students must identify and contact a research mentor in advance of submitting an application
+#### Deadline: 10 January
 
-1. [S.N. Bose Scholarship](http://iusstf.org/story/53-74-For-Indian-Students.html), sponsored by IUSSTF
-2. [Viterbi India Program](http://iusstf.org/story/53-51-IUSSTF-Viterbi-Program.html), sponsored by IUSSTF and USC Viterbi
-3. [Khorana Program for Scholars](http://iusstf.org/story/53-50-Khorana-Program.html), sponsored by IUSSTF
-4. [NTU-India Connect](http://global.ntu.edu.sg/GMP/ic/Pages/default.aspx), sponsored by NTU
-5. [Charpak Global Scholarship](http://www.inde.campusfrance.org/en/page/charpak-research-internship-program), funded by French Embassy in India
-6. [LIGO IndiGo](http://jobs.gw-indigo.org/tiki-index.php?page=LIGO-IndIGO+Summer+Students+Program) at CalTech, funded by US NSF
+### 23. [TIGP-IIP](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan
+* Stipend: NTD 30,000/month-tax free
+* Best for Biotechnology students and Life science students
+#### Deadline: 28 February
+
+### 24. [S.N. Bose Scholarship](http://iusstf.org/story/53-74-For-Indian-Students.html), sponsored by IUSSTF
+#### *** Only for top 2 students of your branch are eligible to apply.
+#### Deadline: 15 October
+
+### 25. [Viterbi India Program](http://iusstf.org/story/53-51-IUSSTF-Viterbi-Program.html), sponsored by IUSSTF
+* Program organized by Unviersity of South California
+* For circuital branch students
+#### Deadline: 15 November
+
+### 26. [Khorana Program for Scholars](http://iusstf.org/story/53-50-Khorana-Program.html), sponsored by IUSSTF
+* Best Internship for Biotechnology students
+#### Deadline: 10 November
+
+### 27. [NTU-India Connect](http://global.ntu.edu.sg/GMP/ic/Pages/default.aspx), sponsored by NTU
+#### *** No stipend is given instead we have to pay SGD $214.00	for using lab
+#### Deadline: 31 December
+
+### 28. [Charpak Global Scholarship](https://www.inde.campusfrance.org/charpak-lab-scholarship), funded by French Embassy in India
+* For this the student should have acceptance letter from French Professor
+#### Deadline: 6 March
+
+### 6. [LIGO IndiGo](http://jobs.gw-indigo.org/tiki-index.php?page=LIGO-IndIGO+Summer+Students+Program) at CalTech, funded by US NSF
+* For circuital branch students
+#### Deadline: 6 March
 7. [SPARK](http://spark.iitr.ac.in/), IIT Roorkee
 8. [IIITD Summer Intersnhip](https://www.iiitd.ac.in/placement/internships), IIIT, New Delhi
