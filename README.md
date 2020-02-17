@@ -1,14 +1,15 @@
 # List-of-all-Research-Internship-Program-for-IIT-and-NITs
 This contains the list of almost all the internship available for IIT and NIT students
 
-
-#### This is a non-exhaustive list of opportunities available to Undergraduate students. Many of these positions are only focussed towards Indian students.
-
-I am making this list as an attempt to fill the void of any such open source list. Your contribution is vital to keep the list up-to-date for future students to use. Hence it's a humble request to each user to contribute any new opportunity you discover and update the old ones. Without updation, the web-links will break, and the list will become redundant! I'll make sure that any such modification in the README.md is raised as an issue will be timely reviewed and added.
-
 The following are some global research internship positions:
 
 1.  [MITACS Gloablink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
+  # Eligibility : CGPA>8 
+  # Weekly stipend: 200 CAD(12*200 = 2400 CAD)    
+  # Air fare: 1500 CAD
+  # Visa: 155 CAD +Health Insurance
+
+Accommodation: 30 Daily (30*84 = 2520)
 2. [DAAD Wise Scholarship](https://www.daad.de/deutschland/stipendium/datenbank/en/15342-you-are-interested-in-a-daad-scholarship/), for research positions in Germany
 3. [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html)
 4. [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/)
@@ -28,10 +29,6 @@ The following are some global research internship positions:
 18. [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria
 19. [CalTech SURF Program](https://www.sfp.caltech.edu/programs/surf/application_information)
 20. [TIGP-IIP](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan
-
-
-
-The following are some research internships for Indian students:
 
 1. [S.N. Bose Scholarship](http://iusstf.org/story/53-74-For-Indian-Students.html), sponsored by IUSSTF
 2. [Viterbi India Program](http://iusstf.org/story/53-51-IUSSTF-Viterbi-Program.html), sponsored by IUSSTF and USC Viterbi
