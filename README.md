@@ -9,11 +9,12 @@ The following are some global research internship positions:
    * Air fare: 1500 CAD
    * Visa: 155 CAD + Health Insurance
    * Accommodation: 30 Daily (30*84 = 2520)
-   *** Notice: If you got selected for Mitacs Globlink Insternship, you will be directly Eligible for Globalink Graduate Fellowship for        Masters in Canada 
+  ####  *** Notice: If you got selected for Mitacs Globlink Insternship, you will be directly Eligible for Globalink Graduate Fellowship for        Masters in Canada 
    #### Deadline: 18 September
 
 ### 2. [DAAD Wise Scholarship](https://www.daad.de/deutschland/stipendium/datenbank/en/15342-you-are-interested-in-a-daad-scholarship/), for research positions in Germany
-#### Eligibility : CGPA>=9.5-9.6
+#### Eligibility : CGPA>=9.5-9.
+* For this the student should have acceptance letter from German Professor
 * stipend: EUR 750 per month
 * Airfare: EUR 1075
   #### Deadline: October 15
@@ -56,9 +57,19 @@ The following are some global research internship positions:
 ### 12. [UROP International](http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1), RWTH Aachen
 #### Deadline: January 15
 
-13. [University of Tokyo](http://www.amgenscholars.com/japan-program), Agmen Scholarship Japan (only Bio Tech and Bio-Chem Programs)
-14. [MTBI Summer Program](https://mtbi.asu.edu/summerprogram), Arizona State University
-15. [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute
+### 13. [University of Tokyo Amgem Program](http://www.amgenscholars.com/japan-program), Agmen Scholarship Japan
+* Best for Biotechnology and Life Science students
+* STIPEND:  250,000 JPY
+* Deadline: 2nd February
+
+### 14. [University of Kyoto Amgem Program](https://www.kyoto-u.ac.jp/en/education-campus/events_news/office/kyoiku-suishin-gakusei-shien/kokusai-kyoiku-koryu/news/2019/200203_1.html)
+* Best for Biotechnology and Life Science students
+* STIPEND:  180,000 JPY
+* Deadline: 2nd February
+
+### 15. [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute
+* Best for BioMedical, BioTechnology and Life Sicence Students
+* Deadline : February 1, 2020
 16. [CERN Summer Student Program](https://careers.cern/join-us/summer-student-programme-member-states)
 17. [CERN OpenLab for Computer Science Undergraduates](http://openlab.cern/summer-student-programme)
 18. [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria
