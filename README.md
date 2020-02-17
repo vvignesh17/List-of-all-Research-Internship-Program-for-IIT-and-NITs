@@ -48,7 +48,7 @@ The following are some global research internship positions:
 #### Applications accepted year-round.
 
 ### 10. [Hybrid NanoTechnology, New York University](https://engineering.nyu.edu/research/student-research/undergraduate-summer-research-program)
-#### *** Only For Female Students
+#### *** Only For Female Students 
 #### Eligibility : CGPA>=8
 #### DeadLine: 28 October.
 
@@ -60,20 +60,35 @@ The following are some global research internship positions:
 ### 13. [University of Tokyo Amgem Program](http://www.amgenscholars.com/japan-program), Agmen Scholarship Japan
 * Best for Biotechnology and Life Science students
 * STIPEND:  250,000 JPY
-* Deadline: 2nd February
+####  Deadline: 2nd February
 
 ### 14. [University of Kyoto Amgem Program](https://www.kyoto-u.ac.jp/en/education-campus/events_news/office/kyoiku-suishin-gakusei-shien/kokusai-kyoiku-koryu/news/2019/200203_1.html)
 * Best for Biotechnology and Life Science students
 * STIPEND:  180,000 JPY
-* Deadline: 2nd February
+####  Deadline: 2nd February
 
 ### 15. [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute
 * Best for BioMedical, BioTechnology and Life Sicence Students
-* Deadline : February 1, 2020
-16. [CERN Summer Student Program](https://careers.cern/join-us/summer-student-programme-member-states)
-17. [CERN OpenLab for Computer Science Undergraduates](http://openlab.cern/summer-student-programme)
-18. [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria
-19. [CalTech SURF Program](https://www.sfp.caltech.edu/programs/surf/application_information)
+####  Deadline : February 1, 2020
+
+### 16. [CERN Summer Student Program](https://careers.cern/join-us/summer-student-programme-member-states)
+
+### 17. [CERN OpenLab for Computer Science Undergraduates](http://openlab.cern/summer-student-programme)
+### 18.[CERN Technical Student Programme](https://careers.smartrecruiters.com/CERN/tech)
+### 19. [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria
+* Best for Life Science Students
+####  Deadline: 2 February
+
+### 20. [EPFL- Life Science](https://phd.pages.ist.ac.at/isternship/), IST Austria
+* Best for Life Science Students
+* Sipend: 1600 CHF per month
+#### Deadline: 31 January
+
+### 21. [NTHU Summer Internship Program](http://eng-en.site.nthu.edu.tw/p/412-1060-3215.php)
+* Best for Chemical Engineering, Power Mechanical Engineering, Materials Science Engineering, Industrial Engineering and Engineering Management, Nanoengineering and Microsystems, Biomedical Engineering
+#### Deadline: 10 January
+
+### 19. [CalTech SURF Program](https://www.sfp.caltech.edu/programs/surf/application_information)
 20. [TIGP-IIP](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan
 
 1. [S.N. Bose Scholarship](http://iusstf.org/story/53-74-For-Indian-Students.html), sponsored by IUSSTF
@@ -81,9 +96,6 @@ The following are some global research internship positions:
 3. [Khorana Program for Scholars](http://iusstf.org/story/53-50-Khorana-Program.html), sponsored by IUSSTF
 4. [NTU-India Connect](http://global.ntu.edu.sg/GMP/ic/Pages/default.aspx), sponsored by NTU
 5. [Charpak Global Scholarship](http://www.inde.campusfrance.org/en/page/charpak-research-internship-program), funded by French Embassy in India
-6. [Indian Student Internship Program at NTHU](http://oga.nthu.edu.tw/news.php?id=233&lang=en)
-7. [IBM Blue Mix](https://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=8101) Research Internship
-8. [IBM Extreme Blue](http://www-07.ibm.com/employment/in/students/extreme-blue/index.html) (limited to IITs and NITs)
-9. [LIGO IndiGo](http://jobs.gw-indigo.org/tiki-index.php?page=LIGO-IndIGO+Summer+Students+Program) at CalTech, funded by US NSF
-10. [SPARK](http://spark.iitr.ac.in/), IIT Roorkee
-11. [IIITD Summer Intersnhip](https://www.iiitd.ac.in/placement/internships), IIIT, New Delhi
+6. [LIGO IndiGo](http://jobs.gw-indigo.org/tiki-index.php?page=LIGO-IndIGO+Summer+Students+Program) at CalTech, funded by US NSF
+7. [SPARK](http://spark.iitr.ac.in/), IIT Roorkee
+8. [IIITD Summer Intersnhip](https://www.iiitd.ac.in/placement/internships), IIIT, New Delhi
