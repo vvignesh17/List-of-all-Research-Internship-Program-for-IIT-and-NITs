@@ -3,14 +3,18 @@ This contains the list of almost all the internship available for IIT and NIT st
 
 The following are some global research internship positions:
 
-1.  [MITACS Gloablink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
-  # Eligibility : CGPA>8 
-  # Weekly stipend: 200 CAD(12*200 = 2400 CAD)    
-  # Air fare: 1500 CAD
-  # Visa: 155 CAD +Health Insurance
+# 1. [MITACS Gloablink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
+   #### Eligibility : CGPA>8 
+   Weekly stipend: 200 CAD(12*200 = 2400 CAD) (12 weeks) 
+   Air fare: 1500 CAD
+   Visa: 155 CAD + Health Insurance
+   Accommodation: 30 Daily (30*84 = 2520)
+   * Notice: If you got selected for Mitacs Globlink Insternship, you will be directly Eligible for Globalink Graduate Fellowship for        Masters in Canada 
 
-Accommodation: 30 Daily (30*84 = 2520)
-2. [DAAD Wise Scholarship](https://www.daad.de/deutschland/stipendium/datenbank/en/15342-you-are-interested-in-a-daad-scholarship/), for research positions in Germany
+# 2. [DAAD Wise Scholarship](https://www.daad.de/deutschland/stipendium/datenbank/en/15342-you-are-interested-in-a-daad-scholarship/), for research positions in Germany
+#### Eligibility : CGPA>=9.5-9.6
+stipend: EUR 650 per month
+
 3. [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html)
 4. [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/)
 5. [CRUISE Program](https://www.cse.gatech.edu/research/cruise) by Georgia Tech University
