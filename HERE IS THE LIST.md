@@ -315,7 +315,7 @@ Deadline: 29 February
 * For students of mechnaical ad aerospace engineering
 #### Deadline: 20 April
 
-### 17. [IIT Gandhinagar](https://www.google.com/search =iit+gandhinagar+summer+internship&oq=IIT+gnhina&aqs=chrome.3.69i57j0l7.5772j0j7&sourceid=chrome&ie=UTF-8)
+### 17. [IIT Gandhinagar](https://sites.iitgn.ac.in/srip/)
 #### Deadline: 1 March
    
 ### 18.[IIT Guwahati](iitg.ac.in/cse/summerinternship/)
@@ -324,4 +324,13 @@ Deadline: 29 February
 ### 19. [NITI Ayog](https://niti.gov.in/internship)
 #### Online application link will be open from 1st to 10th of every month
 
+### 20. [IISER Pune](https://www.iiserpune.ac.in/~sspc/)
+* Research in biology, chemistry, mathematics, physics and Earth sciences with a strong focus on interdisciplinary research
+#### Deadline: 29 February
+
+### 21. [IISER Bhopal](https://www.iiserb.ac.in/doaa/internship)
+* Both Summer and Winter Internship
 #### Deadline: 31 MARCH
+
+### 22. [IISER Kolkata](https://www.iiserkol.ac.in/~summer.research/)
+#### Deadline: 8 MARCH
