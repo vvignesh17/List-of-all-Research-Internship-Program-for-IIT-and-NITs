@@ -2,6 +2,7 @@
 This contains the list of almost all the internship available for IIT and NIT students
 
 The following are some global research internship positions:
+# International Interships
 
 ### 1. [MITACS Gloablink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
    #### Eligibility : CGPA>8 
@@ -251,10 +252,10 @@ The following are some global research internship positions:
 #### Deadline: 6 March
 
 
-# For internship at Indian Institues
+# For internship at Indian Institutes
 
 ### 1. [SPARK](http://spark.iitr.ac.in/), IIT Roorkee
 #### CGPA>8
 #### Deadline: 1 March
 
-8. [IIITD Summer Intersnhip](https://www.iiitd.ac.in/placement/internships), IIIT, New Delhi
+### 2. [IIITD Summer Intersnhip](https://www.iiitd.ac.in/placement/internships), IIIT, New Delhi
