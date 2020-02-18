@@ -210,8 +210,36 @@ The following are some global research internship positions:
 
 ### 51.[CRG Summer Internship](https://www.crg.eu/en/content/training-undergraduates/crg-summer-internship-programme)
 * Organized by The Center for Genomic Regulation (CRG), Barcelona, Spain
+* This intenship for life science stuents.
 #### Deadline: 9 March
 
+### 52.[Summer In Entrepreneurship with Professional Intenrship](https://int.technion.ac.il/academic-programs/short-term-programs/summer-program/)
+#### Eligibility : CGPA>8 
+* Best for students who wants to pursue their carrer in management.
+#### Deadline: 15 January
+
+### 53.[UQ Summer and Winter Research Programme](https://employability.uq.edu.au/summer-winter-research)
+#### Deadline: 8 September
+
+### 54. [Summer Intenrship at Carnegie Mellon University](https://www.ece.cmu.edu/academics/bs-in-ece/summer-internship.html)
+#### Eligibility : CGPA>9 
+* Only For Circuital Branch students
+* You have to get acceptance from Professor of Electrical and Computer Sicnece department.
+#### Deadline: 1 March
+
+### 55. [ITRI Taiwan](https://itri.applytojob.com/)
+* Conducted by Industrial Technology Research Institute
+* Stipend: NT $22,000 – NT $36,000 per month
+#### Deadline: 1 March
+
+### 56. [Summer@ICERM](https://itri.applytojob.com/)
+* Organized by Maths Department of Brown Unviersity
+* Only For Circuital Branch students and Mathematics, Computing and Statistics Major Student
+#### Deadline: 13 February
+
+### 57. [Weizmann Institute of Science Summer Program](https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program-0)
+* This intenship for life science stuents.
+#### Deadline: 30 November
 
 
 # For internship at Indian Institues
