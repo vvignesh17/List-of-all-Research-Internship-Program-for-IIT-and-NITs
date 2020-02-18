@@ -20,11 +20,12 @@ The following are some global research internship positions:
   #### Deadline: October 15
   
 ### 3. [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html)
+* Only For circuital branch students and mosty for computer science student
 * stipend: CHF 1750 
   #### Deadline: 15 December
   
 ### 4. [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/)
-* for computer science students
+* Only For circuital branch students and mosty for computer science student
 
 ### 5. [EPFL E3 Program](https://eee.epfl.ch/e3program-at-a-glance/)
 * By EPFL University in Switzerland
@@ -35,8 +36,7 @@ The following are some global research internship positions:
   #### Deadline: 13 February
   
 ### 7. [Summer at EPFL](https://ic.epfl.ch/SummerAtEPFL)
-
-
+* Only For circuital branch students and mosty for computer science student
   #### Deadline: 15 November
 
 ### 8. [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU
@@ -81,12 +81,12 @@ The following are some global research internship positions:
 ####  Deadline: 2 February
 
 ### 20. [EPFL- Life Science](https://phd.pages.ist.ac.at/isternship/), IST Austria
-* Best for Life Science Students
+* Only for Life Science Students
 * Sipend: 1600 CHF per month
 #### Deadline: 31 January
 
 ### 21. [NTHU Summer Internship Program](http://eng-en.site.nthu.edu.tw/p/412-1060-3215.php)
-* Best for Chemical Engineering, Power Mechanical Engineering, Materials Science Engineering, Industrial Engineering and Engineering Management, Nanoengineering and Microsystems, Biomedical Engineering
+* Only for Chemical Engineering, Power Mechanical Engineering, Materials Science Engineering, Industrial Engineering and Engineering Management, Nanoengineering and Microsystems, Biomedical Engineering
 #### Deadline: 10 January
 
 ### 22. [CalTech SURF Program](https://www.sfp.caltech.edu/programs/surf/application_information)
@@ -119,8 +119,29 @@ The following are some global research internship positions:
 * For this the student should have acceptance letter from French Professor
 #### Deadline: 6 March
 
-### 6. [LIGO IndiGo](http://jobs.gw-indigo.org/tiki-index.php?page=LIGO-IndIGO+Summer+Students+Program) at CalTech, funded by US NSF
+### 29. [LIGO IndiGo](http://jobs.gw-indigo.org/tiki-index.php?page=LIGO-IndIGO+Summer+Students+Program) at CalTech, funded by US NSF
+* Only For circuital branch students
+
+### 30. [Research Internship for Young Academics (RIYA) Program](https://mae.osu.edu/RIYA)
+* Organized by Ohio State University 
+* Only for Mechanical and Aerospace students of India
+* Stipend: $5,000
+* There will be 2 rounds --> 1st round is elimination round based on CV and who ever get selected can apply for 2nd round.
+#### Intitial Application Deadline: 9 September
+
+### 31.[Duke ECE SURP](https://ece.duke.edu/undergrad/reu)
 * For circuital branch students
-#### Deadline: 6 March
+#### Deadline : 2 February
+
+### 35.[IVISP, HKUST](https://pg.ust.hk/prospective-students/programs/short-term-study/international-visiting-internship-student-program)
+* In Hong Kong Univesity of Science and Technology
+* Stipend: US$1,300 - US$1,500
+#### Deadline : 31 October
+
+### 36. [Space Astronomy Summer Program, Space Telescope Science Institute (STScI)](http://www.stsci.edu/opportunities/space-astronomy-summer-program/application-information)
+* Stipend: 650$ per week
+* Best for Mechanical, Aerospace, Instrumentation,  physics and computer science student
+#### Deadline : 5 February
+
 7. [SPARK](http://spark.iitr.ac.in/), IIT Roorkee
 8. [IIITD Summer Intersnhip](https://www.iiitd.ac.in/placement/internships), IIIT, New Delhi
