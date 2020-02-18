@@ -247,10 +247,12 @@ The following are some global research internship positions:
 * Good for Metallurgy and Mining student
 #### Deadline: 1 May
 
-### [GIST](https://service.gist.ac.kr/admission/graduate/foreigner?serviceType=2)
+### 59. [GIST](https://service.gist.ac.kr/admission/graduate/foreigner?serviceType=2)
 * Organized by Gwangju Institute of Science and Technology (GIST), South Korea
 #### Deadline: 6 March
 
+### 60. [Ecole' Polytechnique](https://programmes.polytechnique.edu/en/exchange-programs/internship-program-for-international-students/program-details)
+Deadline: 29 February
 
 # For internship at Indian Institutes (For 2nd Year and 3rd Year)
 
@@ -313,3 +315,13 @@ The following are some global research internship positions:
 * For students of mechnaical ad aerospace engineering
 #### Deadline: 20 April
 
+### 17. [IIT Gandhinagar](https://www.google.com/search =iit+gandhinagar+summer+internship&oq=IIT+gnhina&aqs=chrome.3.69i57j0l7.5772j0j7&sourceid=chrome&ie=UTF-8)
+#### Deadline: 1 March
+   
+### 18.[IIT Guwahati](iitg.ac.in/cse/summerinternship/)
+#### Deadline: 31 March
+ 
+### 19. [NITI Ayog](https://niti.gov.in/internship)
+#### Online application link will be open from 1st to 10th of every month
+
+#### Deadline: 31 MARCH
