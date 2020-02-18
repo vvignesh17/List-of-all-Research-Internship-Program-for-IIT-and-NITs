@@ -322,6 +322,7 @@ Deadline: 29 February
 #### Deadline: 31 March
  
 ### 19. [NITI Ayog](https://niti.gov.in/internship)
+#### * Best for the aspirants who are aiming for UPSC
 #### Online application link will be open from 1st to 10th of every month
 
 ### 20. [IISER Pune](https://www.iiserpune.ac.in/~sspc/)
