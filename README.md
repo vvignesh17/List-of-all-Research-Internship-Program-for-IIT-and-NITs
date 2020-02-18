@@ -190,6 +190,28 @@ The following are some global research internship positions:
 * The length of the internship (usually between 2 and 6 months).
 #### Deadline: 1 March
 
+### 47. [ASTRON](https://old.astron.nl/astronomy-group/astronjive-summer-student-programme)
+##### * Only for Physics and Computer Science Major with strong interest in Astronomy
+* At Dwingeloo Observatory, Netherlands.
+#### Deadline: 1 February
+
+### 48. [UTSIP](https://www.ilo.k.u-tokyo.ac.jp/summer_en)
+* Only for Life science/natural science students
+#### Deadline: 3 February
+
+### 49. [DESY Summer School](https://summerstudents.desy.de/)
+* Only for Life science and Physics major students
+* Research at DESY Laboratory in Hamburg or Zeuthen (Berlin)
+#### Deadline: 3 February
+
+### 50. [SITT](http://www2.siit.tu.ac.th/crd/?page_id=420)
+* Research at Sirindhorn International Institute of Technology, Thailand
+#### Deadline: 28 February
+
+### 51.[CRG Summer Internship](https://www.crg.eu/en/content/training-undergraduates/crg-summer-internship-programme)
+* Organized by The Center for Genomic Regulation (CRG), Barcelona, Spain
+#### Deadline: 9 March
+
 
 
 # For internship at Indian Institues
