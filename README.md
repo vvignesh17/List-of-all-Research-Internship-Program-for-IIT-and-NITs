@@ -143,5 +143,40 @@ The following are some global research internship positions:
 * Best for Mechanical, Aerospace, Instrumentation,  physics and computer science student
 #### Deadline : 5 February
 
-7. [SPARK](http://spark.iitr.ac.in/), IIT Roorkee
+### 37. [ASPIRE](https://aspire.science.uva.nl/index.html)
+* Organized by Anton Pannekoek Institute (API), University of Amsterdam, Netherland.
+* Only for circuital branch and mathematics and Physics Major students who are interested in field of Astronomy. 
+#### Deadline : 8th FEBRUARY
+
+### 38. [NASA LPI Program](https://www.lpi.usra.edu/lpiintern/)
+* Organized by Lunar and Planetary Institute of NASA
+* Relevant fields of study include the natural sciences, engineering, computer sciences, and mathematics.
+#### Deadline : 6th January
+
+### 39.[Columbia Buisness Summer Internship](https://www8.gsb.columbia.edu/programs/pre-doctoral-research/summer-research-internship)
+* Best for students who want to pursue in the field of Management and Data Science 
+* Apply early - applications will be reviewed on a rolling basis.
+#### Final Deadline: 1 March
+
+### 40. [TUSUR University](https://tusur.ru/en/research/research-internships)
+* Russian University and Only for ciruital branch student
+#### Deadline : 1st FEBRUARY
+
+### 41. [OIST Research Internship Program, Okinawa Institute of Science and Technology](https://admissions.oist.jp/oist-research-internship-program-description)
+* Mostly for Life science, mechanical. chemical engineering students
+#### Deadline: 15 October
+
+### 42.[SURP, CUHK](http://www.summer.cuhk.edu.hk/surp/)
+#### Deadline: 17 February
+
+### 43. [NIG Summer Internship, JAPAN](https://nigintern.nig.ac.jp/)
+* Only for genetics and life science related field major student
+#### Deadline: 7 January
+
+ 
+## Internship at Indian Institues
+### 1. [SPARK](http://spark.iitr.ac.in/), IIT Roorkee
+#### CGPA>8
+#### Deadline: 1 March
+
 8. [IIITD Summer Intersnhip](https://www.iiitd.ac.in/placement/internships), IIIT, New Delhi
