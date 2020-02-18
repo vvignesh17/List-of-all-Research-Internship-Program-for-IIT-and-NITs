@@ -173,8 +173,26 @@ The following are some global research internship positions:
 * Only for genetics and life science related field major student
 #### Deadline: 7 January
 
- 
-## Internship at Indian Institues
+### 44. [University of Alberta Research Experience](https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/ualberta-research-experience/how-to-apply.html)
+#### Deadline: 20 October
+
+### 45. [Think Swiss](https://thinkswiss.org/)
+* For this the student should have acceptance letter from Swiss Professor 
+#### Deadline: 15 January
+
+### 46. [Inria France](https://www.inria.fr/en/do-internship)
+* You have to get acceptance from Professor of any Inria Lab.
+* The length of the internship (usually between 4 and 6 months).
+#### Deadline: 1 March
+
+### 46. [Sakae Japan Internship Program](https://japan-internships.com/)
+* You can able to do research in japanese companies
+* The length of the internship (usually between 2 and 6 months).
+#### Deadline: 1 March
+
+
+
+# For internship at Indian Institues
 ### 1. [SPARK](http://spark.iitr.ac.in/), IIT Roorkee
 #### CGPA>8
 #### Deadline: 1 March
