@@ -241,8 +241,18 @@ The following are some global research internship positions:
 * This intenship for life science stuents.
 #### Deadline: 30 November
 
+### 58. [GIFT](http://gift.postech.ac.kr/sub2_3.php)
+* Organized by Graduate Institute of Ferrous Technology, Phonag University of Science and Technology, South Korea
+* Good for Metallurgy and Mining student
+#### Deadline: 1 May
+
+### [GIST](https://service.gist.ac.kr/admission/graduate/foreigner?serviceType=2)
+* Organized by Gwangju Institute of Science and Technology (GIST), South Korea
+#### Deadline: 6 March
+
 
 # For internship at Indian Institues
+
 ### 1. [SPARK](http://spark.iitr.ac.in/), IIT Roorkee
 #### CGPA>8
 #### Deadline: 1 March
