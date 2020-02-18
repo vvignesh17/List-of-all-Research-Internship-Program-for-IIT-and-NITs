@@ -252,10 +252,64 @@ The following are some global research internship positions:
 #### Deadline: 6 March
 
 
-# For internship at Indian Institutes
+# For internship at Indian Institutes (For 2nd Year and 3rd Year)
 
-### 1. [SPARK](http://spark.iitr.ac.in/), IIT Roorkee
+### 1. [SRPF](https://web-japps.ias.ac.in:8443/fellowship2020/application_instructions.jsp)
+#### This application will help you getting an intenrship in any of the Research Centres, IIT and IISC Banaglore in India.\
+#### Deadline: 1 November
+
+### 2. [SPARK](http://spark.iitr.ac.in/), IIT Roorkee
 #### CGPA>8
 #### Deadline: 1 March
 
-### 2. [IIITD Summer Intersnhip](https://www.iiitd.ac.in/placement/internships), IIIT, New Delhi
+### 3. [IIITD Summer Intersnhip](https://www.iiitd.ac.in/placement/internships), IIIT, New Delhi
+#### Deadline: 31 March
+
+### 4. [IITM - Summer Fellowship Programme, IIT Madras](https://sfp.iitm.ac.in/)
+* Only for 3rd Year students or 4th Year student of Integrated MTech Program
+#### Deadline: 29 February
+
+### 5.[Chennai Mathematics Institute](https://www.cmi.ac.in/admissions/internships.php)
+* Mostly for circuital and mathemtaics and Computing  students
+#### Deadline: 31 January
+
+### 6.[EkLavya IIT Bombay](https://www.it.iitb.ac.in/summerinternship2020/)
+* Mostly for circuital and mathemtaics and Computing  students
+#### Deadline: 1 March
+
+### 7.[SURGE IIT Kanpur](http://surge.iitk.ac.in/)
+* Have to Pay Rs 400 for NON IIT Kanpur students
+#### Deadline: 10 March
+
+### 8. [VSRP, Tata Institute of Fundamental Research](https://www.tifr.res.in/~vsrp/apply/apply.htm)
+* Research in the areas of Astronomy, Biology, Chemistry, Computer Science, Mathematics, and Physics.
+* One of the top research institute of India
+#### Deadline: 31 January
+
+### 9.[IIIT Bangalore](https://www.iiitb.ac.in/summer-internship)
+#### Deadline: 12 April
+
+### 10. [NIT Roukela](https://eapplication.nitrkl.ac.in/internship/)
+#### Deadline: 6 May
+
+### 11. [IIT Karagpur Summer Internship](https://cse.iitkgp.ac.in/?summerinterns.html)
+* Only for circuital branch students.
+##### Deadline: 31 March
+
+### 12. [MT-NLP Lab, IIIT Hyderabad](https://ltrc.iiit.ac.in/nlpmt/internship_form.php)
+##### Deadline:10 April
+
+### 13. [Software Engineering Research Center, IIIT Hyderabad.](https://serc.iiit.ac.in/srip/)
+##### Deadline: 2nd May
+
+### 14. [ISRO Intenship](https://www.isro.gov.in/research-and-academia-interface/internships-projects-training)
+##### Deadline: 31 March
+
+### 15. [CeNSE, IISc Bangalore](http://www.cense.iisc.ac.in/content/summer-program)
+* In the field of nano science and engineering.
+#### Deadline: 29 February
+
+### 16. [IIST Internship](https://www.iist.ac.in/career/4)
+* For students of mechnaical ad aerospace engineering
+#### Deadline: 20 April
+
