@@ -350,3 +350,7 @@ The following are some global research internship positions:
 * Research in the  field of Life Sciences, Material Sciences, Chemical Sciences,physical Sciences, Engineering Sciences, Mathematics, Atmospheric Sciences.
 #### Deadline: 1 November
 
+### 24. [IIIT Allahabad](https://www.cogcomp.in/summer-research-internship-program-2020/)
+* Area of Research: Cognitive Computing, Computer Vision, Complex Networks, Language and Dialogue Processing, EEG Analysis
+* Registration fee ia 7500
+### Deadline:Students can apply through out the year (no deadline for application).
