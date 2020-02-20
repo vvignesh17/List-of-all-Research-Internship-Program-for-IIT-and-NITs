@@ -252,7 +252,17 @@ The following are some global research internship positions:
 #### Deadline: 6 March
 
 ### 60. [Ecole' Polytechnique](https://programmes.polytechnique.edu/en/exchange-programs/internship-program-for-international-students/program-details)
-Deadline: 29 February
+#### Deadline: 29 February
+
+### 61. [Aalto Science Institute AScI internship programme](https://www.aalto.fi/en/aalto-science-institute/how-to-apply-to-the-asci-internship-programme)
+#### Deadline: 17 January
+
+### 62. [Aalto Science Institute AScI internship programme](https://www.aalto.fi/en/aalto-science-institute/how-to-apply-to-the-asci-internship-programme)
+#### Deadline: 17 January
+
+### 63. [Mechanobiology Institute, National University of Singapore](https://mbi.nus.edu.sg/education/must/)
+* Research in the field of cell and molecular biologists, biophysicists, bioengineers, microbiologists, and theoretical physicists.
+#### Deadline: 1 March
 
 # For internship at Indian Institutes (For 2nd Year and 3rd Year)
 
@@ -335,3 +345,8 @@ Deadline: 29 February
 
 ### 22. [IISER Kolkata](https://www.iiserkol.ac.in/~summer.research/)
 #### Deadline: 8 MARCH
+
+### 23. [JNCASR summer iternship](http://www.jncasr.ac.in/eobumain.php/Summer-Research-Fellowships-Programme/15/1/12/)
+* Research in the  field of Life Sciences, Material Sciences, Chemical Sciences,physical Sciences, Engineering Sciences, Mathematics, Atmospheric Sciences.
+#### Deadline: 1 November
+
