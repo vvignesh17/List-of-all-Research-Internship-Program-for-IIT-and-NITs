@@ -2,7 +2,7 @@
 This contains the list of almost all the internship available for IIT and NIT students
 
 The following are some global research internship positions:
-# ---- International Interships
+# -------- International Interships --------
 
 ### 1. [MITACS Gloablink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
    #### Eligibility : CGPA>8 
@@ -279,7 +279,7 @@ The following are some global research internship positions:
 * Stipend: 3Lakh rupees
 #### Deadline:  17 January
 
-# For internship at Indian Institutes (For 2nd Year and 3rd Year)
+# -------- For internship at Indian Institutes (For 2nd Year and 3rd Year) --------
 
 ### 1. [SRPF](https://web-japps.ias.ac.in:8443/fellowship2020/application_instructions.jsp)
 #### This application will help you getting an intenrship in any of the Research Centres, IIT and IISC Banaglore in India.\
