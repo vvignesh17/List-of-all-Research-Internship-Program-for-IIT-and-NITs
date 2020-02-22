@@ -279,7 +279,7 @@ The following are some global research internship positions:
 * Stipend: 3Lakh rupees
 #### Deadline:  17 January
 
-# -------- For internship at Indian Institutes (For 2nd Year and 3rd Year) --------
+# -------- For Indian Internships (For 2nd Year and 3rd Year) --------
 
 ### 1. [SRPF](https://web-japps.ias.ac.in:8443/fellowship2020/application_instructions.jsp)
 #### This application will help you getting an intenrship in any of the Research Centres, IIT and IISC Banaglore in India.\
