@@ -1,5 +1,6 @@
 # List-of-all-Research-Internship-Program-for-IIT-and-NITs
-This contains the list of almost all the internship available for IIT and NIT students
+
+This contains the list of almost all the internship available mostly for IIT and NIT students some are also for other indian college students.
 
 The following are some global research internship positions:
 # -------- International Interships --------
@@ -372,4 +373,4 @@ The following are some global research internship positions:
 ### 25. [IIIT Allahabad Summer Internship](https://www.cogcomp.in/summer-research-internship-program-2020/)
 * Area of Research: Cognitive Computing, Computer Vision, Complex Networks, Language and Dialogue Processing, EEG Analysis
 * Registration fee ia 7500
-### Deadline:Students can apply through out the year (no deadline for application).
+### Deadline: Students can apply through out the year (no deadline for application).
