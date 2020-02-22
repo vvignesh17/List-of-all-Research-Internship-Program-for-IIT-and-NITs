@@ -2,7 +2,7 @@
 This contains the list of almost all the internship available for IIT and NIT students
 
 The following are some global research internship positions:
-# International Interships
+# ---- International Interships
 
 ### 1. [MITACS Gloablink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
    #### Eligibility : CGPA>8 
