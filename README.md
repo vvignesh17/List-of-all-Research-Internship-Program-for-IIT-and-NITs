@@ -55,8 +55,10 @@ The following are some global research internship positions:
 #### DeadLine: 28 October.
 
 ### 11. [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/schools/research-experiences-undergraduates)
+#### Deadline: January 15
 
-### 12. [UROP International](http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1), RWTH Aachen
+### 12. [UROP International](http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1)
+* Organized by RWTH Aachen
 #### Deadline: January 15
 
 ### 13. [University of Tokyo Amgem Program](http://www.amgenscholars.com/japan-program), Agmen Scholarship Japan
@@ -69,14 +71,21 @@ The following are some global research internship positions:
 * STIPEND:  180,000 JPY
 ####  Deadline: 2nd February
 
-### 15. [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute
+### 15. [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/)
+* Organized by Rockfeller Institute
 * Best for BioMedical, BioTechnology and Life Sicence Students
-####  Deadline : February 1, 2020
+####  Deadline : February 1
 
-### 16. [CERN Summer Student Program](https://careers.cern/join-us/summer-student-programme-member-states)
+### 16. [CERN Summer Student Program](https://jobs.smartrecruiters.com/CERN/743999698739073-summer-student-programme-member-and-non-member-states-)
+#### Deadline: January 31
 
-### 17. [CERN OpenLab for Computer Science Undergraduates](http://openlab.cern/summer-student-programme)
+### 17. [CERN OpenLab for Computer Science Undergraduates](https://home.cern/news/news/cern/applications-open-2020-cern-openlab-summer-students)
+* Best for students who wants to work in the field of computer science.
+#### Deadline: January 31
+
 ### 18.[CERN Technical Student Programme](https://careers.smartrecruiters.com/CERN/tech)
+#### Deadline: 25 March
+
 ### 19. [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria
 * Best for Life Science Students
 ####  Deadline: 2 February
@@ -94,7 +103,7 @@ The following are some global research internship positions:
 * Students must identify and contact a research mentor in advance of submitting an application
 #### Deadline: 10 January
 
-### 23. [TIGP-IIP](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan
+### 23. [TIGP-IIP Summer Inernship](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan
 * Stipend: NTD 30,000/month-tax free
 * Best for Biotechnology students and Life science students
 #### Deadline: 28 February
@@ -108,12 +117,14 @@ The following are some global research internship positions:
 * For circuital branch students
 #### Deadline: 15 November
 
-### 26. [Khorana Program for Scholars](http://iusstf.org/story/53-50-Khorana-Program.html), sponsored by IUSSTF
+### 26. [Khorana Program for Scholars](http://iusstf.org/story/53-50-Khorana-Program.html)
+* Sponsored by IUSSTF
 * Best Internship for Biotechnology students
 #### Deadline: 10 November
 
-### 27. [NTU-India Connect](http://global.ntu.edu.sg/GMP/ic/Pages/default.aspx), sponsored by NTU
-#### *** No stipend is given instead we have to pay SGD $214.00	for using lab
+### 27. [NTU-India Connect](http://global.ntu.edu.sg/GMP/ic/Pages/default.aspx)
+* Organized by NTU Singapore
+#### *** No stipend is given instead we have to pay SGD $214.00 for using lab
 #### Deadline: 31 December
 
 ### 28. [Charpak Global Scholarship](https://www.inde.campusfrance.org/charpak-lab-scholarship), funded by French Embassy in India
@@ -121,7 +132,9 @@ The following are some global research internship positions:
 #### Deadline: 6 March
 
 ### 29. [LIGO IndiGo](http://jobs.gw-indigo.org/tiki-index.php?page=LIGO-IndIGO+Summer+Students+Program) at CalTech, funded by US NSF
-* Only For circuital branch students
+* Organized by LIGO Laboratory at California Institute of Technology (Caltech) 
+* Only For circuital branch students and Physics Major students
+#### Deadline: 10 Januray
 
 ### 30. [Research Internship for Young Academics (RIYA) Program](https://mae.osu.edu/RIYA)
 * Organized by Ohio State University 
