@@ -278,7 +278,41 @@ The following are some global research internship positions:
 
 ### 61. [University of Southampton internship with Ankit Singh](https://internshala.com/aniket-singh-iip)
 * Stipend: 3Lakh rupees
+* Only 5-6 students are selected for this program.
 #### Deadline:  17 January
+
+### 62. [ UNIL Summer Undergraduate Research Program](https://www.unil.ch/eb-sur/home/menuinst/how-to-apply.html)
+####  * Criteria: top 5% class ranking
+* Best for students who wants to work in biological or medical related fields.
+#### Deadline: 23 January
+
+### 63. [World Bank Internship](https://www.worldbank.org/en/about/careers/programs-and-internships/internship)
+*  Work in the fields of agriculture, economics, human development, private sector development, social science, environment, finance, and other related fields. 
+#### Deadline: 31 January
+
+### 64. [Petro Jacyk Visiting Scholars Program](https://munkschool.utoronto.ca/jacyk/project/visiting-scholarships/)
+* Best for students who wants to work in the field of social science and humanities
+#### Deadline: 15 February
+
+### 65. [RTC Summer Research Program](http://research.lunenfeld.ca/rtc/DEFAULT.ASP?page=Summer%20Research%20Program)
+* Organized by Lunenfeld-Tanenbaum research institute, University of Toronto
+*  Best for students who wants to do researh in biostatistics, biomeical and biology related fields.
+#### Deadline: 28 February
+
+### 66. [CNIO Summer Training Programme](https://www.cnio.es/en/education-and-career-development/career-development-programmes/undergraduate-students/)
+* Organized by Spanish National Cancer Research Centre
+*  Only for Life Sciences or Biomedicine-related undergraduate degree (e.g. Biology, Biomedicine, Biochemistry, Pharmacology, Bioinformatics)
+#### Deadline: 31 March
+
+### 67. [Vienna Biocenter Summer School](https://www.training.vbc.ac.at/summer-school/)
+* Best for Research in the field of Molecular biology, neuroscience, immunology, bioinformatics, RNA biology, stem cells, and biochemistry.
+#### Deadline: 31 January
+
+### 68. [American Foreign Service Association (AFSA) Internship](http://www.afsa.org/labor-management-internships)
+* Best for UPSC aspirant.
+#### Deadline: 1 March
+
+
 
 # -------- For Indian Internships (For 2nd Year and 3rd Year) --------
 
@@ -374,3 +408,14 @@ The following are some global research internship positions:
 * Area of Research: Cognitive Computing, Computer Vision, Complex Networks, Language and Dialogue Processing, EEG Analysis
 * Registration fee ia 7500
 ### Deadline: Students can apply through out the year (no deadline for application).
+
+### 26. [IISc Bangalore internship with Ankit Singh](https://internshala.com/aniket-singh-iip)
+* Only 5-6 students are selected for this program.
+#### Deadline:  17 January
+
+### 27. [IIT Gandhinagar internship with Ankit Singh](https://internshala.com/aniket-singh-iip)
+* Only 5-6 students are selected for this program.
+#### Deadline:  17 January
+
+### 28. [IISER Mohali](https://www.iisermohali.ac.in/home/front-page-articles/instructions-for-summer-research-program-2020)
+#### Deadline:  5 March
