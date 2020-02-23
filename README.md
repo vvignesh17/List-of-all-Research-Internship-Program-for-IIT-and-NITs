@@ -419,3 +419,7 @@ The following are some global research internship positions:
 
 ### 28. [IISER Mohali](https://www.iisermohali.ac.in/home/front-page-articles/instructions-for-summer-research-program-2020)
 #### Deadline:  5 March
+
+### 29. [NPTEL Summer Internship](https://nptel.ac.in/internship/)
+#### * Only for NPTEL Course exam topper
+#### Deadline:  1 March
