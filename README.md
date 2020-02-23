@@ -381,7 +381,7 @@ The following are some global research internship positions:
 ### 18.[IIT Guwahati Summer Internship](iitg.ac.in/cse/summerinternship/)
 #### Deadline: 31 March
 
-### 19. [IIT Hyderabad Summer Internship]
+### 19. [IIT Hyderabad Summer Internship](https://cse.iith.ac.in/admissions/internships.html)
  * Only for circuital students
  #### Deadline: 20 March
  
