@@ -309,7 +309,7 @@ The following are some global research internship positions:
 #### Deadline: 31 January
 
 ### 68. [American Foreign Service Association (AFSA) Internship](http://www.afsa.org/labor-management-internships)
-* Best for UPSC aspirant.
+#### * Best for UPSC aspirant.
 #### Deadline: 1 March
 
 
