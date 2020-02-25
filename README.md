@@ -356,16 +356,16 @@ The following are some global research internship positions:
 
 ### 11. [IIT Karagpur Summer Internship](https://cse.iitkgp.ac.in/?summerinterns.html)
 * Only for circuital branch students.
-##### Deadline: 31 March
+#### Deadline: 31 March
 
 ### 12. [MT-NLP Lab, IIIT Hyderabad](https://ltrc.iiit.ac.in/nlpmt/internship_form.php)
-##### Deadline:10 April
+#### Deadline:10 April
 
 ### 13. [Software Engineering Research Center, IIIT Hyderabad.](https://serc.iiit.ac.in/srip/)
-##### Deadline: 2nd May
+#### Deadline: 2nd May
 
 ### 14. [ISRO Intenship](https://www.isro.gov.in/research-and-academia-interface/internships-projects-training)
-##### Deadline: 31 March
+#### Deadline: 31 March
 
 ### 15. [CeNSE, IISc Bangalore](http://www.cense.iisc.ac.in/content/summer-program)
 * In the field of nano science and engineering.
@@ -383,7 +383,7 @@ The following are some global research internship positions:
 
 ### 19. [IIT Hyderabad Summer Internship](https://cse.iith.ac.in/admissions/internships.html)
  * Only for circuital students
- #### Deadline: 20 March
+#### Deadline: 20 March
  
 ### 20. [NITI Ayog](https://niti.gov.in/internship)
 #### * Best for the aspirants who are aiming for UPSC
