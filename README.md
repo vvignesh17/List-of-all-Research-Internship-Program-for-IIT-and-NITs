@@ -257,12 +257,12 @@ The following are some global research internship positions:
 * This intenship for life science stuents.
 #### Deadline: 30 November
 
-### 56. [GIFT](http://gift.postech.ac.kr/sub2_3.php)
+### 56. [GIFT Internship](http://gift.postech.ac.kr/sub2_3.php)
 * Organized by Graduate Institute of Ferrous Technology, Phonag University of Science and Technology, South Korea
 * Good for Metallurgy and Mining student
 #### Deadline: 1 May
 
-### 57. [GIST](https://service.gist.ac.kr/admission/graduate/foreigner?serviceType=2)
+### 57. [GIST Internship](https://service.gist.ac.kr/admission/graduate/foreigner?serviceType=2)
 * Organized by Gwangju Institute of Science and Technology (GIST), South Korea
 #### Deadline: 6 March
 
@@ -312,7 +312,10 @@ The following are some global research internship positions:
 #### * Best for UPSC aspirant.
 #### Deadline: 1 March
 
-
+### 69. [UNDP Internship](https://www.in.undp.org/content/dam/india/docs/careers/UNDP_India_Internship-Policy2018.pdf)
+#### * Best for UPSC aspirant.
+* Interns specialize in the areas of: public relations/communications, sustainable development, inclusive growth, climate and disaster resilience, systems and governance strengthening, promoting civic engagement and the Sustainable Development Goals
+#### Deadline: 15 March
 
 # -------- For Indian Internships (For 2nd Year and 3rd Year) --------
 
