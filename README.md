@@ -3,7 +3,7 @@
 This contains the list of almost all the internship available mostly for IIT and NIT students some are also for other indian college students.
 
 The following are some global research internship positions:
-# -------- International Interships --------
+# -------- International Internships --------
 
 ### 1. [MITACS Gloablink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
    #### Eligibility : CGPA>8 
@@ -316,6 +316,10 @@ The following are some global research internship positions:
 #### * Best for UPSC aspirant.
 * Interns specialize in the areas of: public relations/communications, sustainable development, inclusive growth, climate and disaster resilience, systems and governance strengthening, promoting civic engagement and the Sustainable Development Goals
 #### Deadline: 15 March
+
+### 70.[Insight Fellowship Program](https://insightcollaborative.org/fellowship-principles/)
+* Best for students who wants to do research in management related fields
+#### Deadline: 11 February
 
 # -------- For Indian Internships (For 2nd Year and 3rd Year) --------
 
