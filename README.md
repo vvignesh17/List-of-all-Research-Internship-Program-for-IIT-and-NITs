@@ -430,3 +430,7 @@ The following are some global research internship positions:
 ### 29. [NPTEL Summer Internship](https://nptel.ac.in/internship/)
 #### * Only for NPTEL Course exam topper
 #### Deadline:  1 March
+
+### 30. [IIT BHU SUMMER INTERNSHIP](https://internship.iitbhu.ac.in/)
+#### Deadline:  1 April
+
