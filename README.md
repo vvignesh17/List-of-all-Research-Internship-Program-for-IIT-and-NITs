@@ -418,19 +418,26 @@ The following are some global research internship positions:
 
 ### 26. [IISc Bangalore internship with Ankit Singh](https://internshala.com/aniket-singh-iip)
 * Only 5-6 students are selected for this program.
-#### Deadline:  17 January
+#### Deadline: 17 January
 
 ### 27. [IIT Gandhinagar internship with Ankit Singh](https://internshala.com/aniket-singh-iip)
 * Only 5-6 students are selected for this program.
-#### Deadline:  17 January
+#### Deadline: 17 January
 
 ### 28. [IISER Mohali](https://www.iisermohali.ac.in/home/front-page-articles/instructions-for-summer-research-program-2020)
-#### Deadline:  5 March
+#### Deadline: 5 March
 
 ### 29. [NPTEL Summer Internship](https://nptel.ac.in/internship/)
 #### * Only for NPTEL Course exam topper
-#### Deadline:  1 March
+#### Deadline: 1 March
 
 ### 30. [IIT BHU SUMMER INTERNSHIP](https://internship.iitbhu.ac.in/)
-#### Deadline:  1 April
+#### Deadline: 1 April
 
+### 31. [IIT Mandi Summer Internship](http://oas.iitmandi.ac.in/externalportal/)
+* Only 2nd Year students
+#### Deadline: 30 April
+
+### 32. [IIT Palakkad Summer Internship](https://sun.iitpkd.ac.in/)
+* Only for 3rd Year Students
+#### Deadline: 22 March
