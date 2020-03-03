@@ -441,3 +441,6 @@ The following are some global research internship positions:
 ### 32. [IIT Palakkad Summer Internship](https://sun.iitpkd.ac.in/)
 * Only for 3rd Year Students
 #### Deadline: 22 March
+
+### 33. [IIT GOA Summer Internship](https://www.iitgoa.ac.in/INTERN/form.php)
+#### Deadline: 20 March
