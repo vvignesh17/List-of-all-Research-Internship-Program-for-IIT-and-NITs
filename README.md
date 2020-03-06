@@ -452,3 +452,24 @@ The following are some global research internship positions:
 #### CGPA > 7.0 (IV SEMESTERS)
 #### Deadline: 31 December
 
+### 36. [Indian Institute of Astrophysics](https://www.iiap.res.in/summer_school/?q=HOME)
+#### Deadline: 27 March
+
+### 37. [Institute of Chemical Technology Summer Internship](https://www.ictmumbai.edu.in/newsFiles/Advertisement-st-2019.pdf)
+#### * Only for Chemical Department Students
+#### Deadline: 31 March
+
+### 38. [Physics Laboratory Research](https://www.prl.res.in/prl-eng/summer_internship)
+* Research in the field of Physics, Applied Physics, Astronomy & Astrophysics, Optics/Applied Optics, Laser Physics, Space Physics, Geology, Geophysics, Atmospheric Sciences, Environmental Sciences, Meteorology, Chemistry, Ocean Sciences
+#### Deadline: 25 March
+
+### 39.[National Institute of Industriual Engineering Summer Internship](https://www.nitie.edu/index.php/en/component/content/458?task=view)
+#### Deadline: 31 March
+
+### 40. [Indian Institute of Remote Sensing Summer Internship](https://www.iirs.gov.in/externalprojects/internship)
+#### Deadline: 31 March
+
+### 41.[Raman research Institute](http://www.rri.res.in/visitingstudents.html)
+* Eligibility: 1st and 2nd Year Undergraduate Students
+* Have to mail to researchers to get acceptance letter
+#### Deadline: 31 March
