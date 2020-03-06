@@ -444,3 +444,6 @@ The following are some global research internship positions:
 
 ### 33. [IIT GOA Summer Internship](https://www.iitgoa.ac.in/INTERN/form.php)
 #### Deadline: 20 March
+
+### 34.[IIT Ropar Summer Internship](http://onlineportal.iitrpr.ac.in/summer-internship-2020)
+#### Deadline: 27 March
