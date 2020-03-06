@@ -447,3 +447,8 @@ The following are some global research internship positions:
 
 ### 34.[IIT Ropar Summer Internship](http://onlineportal.iitrpr.ac.in/summer-internship-2020)
 #### Deadline: 27 March
+
+### 35.[AcSIR – Dr. APJ Abdul Kalam Summer Training Program 2020](http://acsir.res.in/acsir-dr-apj-abdul-kalam-summer-training-program/)
+#### CGPA > 7.0 (IV SEMESTERS)
+#### Deadline: 31 December
+
