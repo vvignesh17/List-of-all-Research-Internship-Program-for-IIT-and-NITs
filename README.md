@@ -473,3 +473,7 @@ The following are some global research internship positions:
 * Eligibility: 1st and 2nd Year Undergraduate Students
 * Have to mail to researchers to get acceptance letter
 #### Deadline: 31 March
+
+### 42.[Summer Internship in IIT Hyderabad](https://ee.iith.ac.in/intern.html)
+* Only for candidates from EE, ECE and EI background are eligible to apply
+#### Deadline: 21 March
