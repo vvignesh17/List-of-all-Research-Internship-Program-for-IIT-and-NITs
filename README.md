@@ -321,6 +321,12 @@ The following are some global research internship positions:
 * Best for students who wants to do research in management related fields
 #### Deadline: 11 February
 
+### 71.[University of Warwick Statistics internship](https://warwick.ac.uk/fac/sci/statistics/research/internships)
+* Best for students who wants to do research in statistics, probability, or mathematical finance
+* Stipend - £350 per week (8 week programme)
+#### Deadline: 12 February
+
+
 # -------- For Indian Internships (For 2nd Year and 3rd Year) --------
 
 ### 1. [SRPF](https://web-japps.ias.ac.in:8443/fellowship2020/application_instructions.jsp)
