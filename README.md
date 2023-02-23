@@ -1,8 +1,6 @@
 # List-of-all-Research-Internship-Program-for-Indian-College-Students
 
-This contains the list of almost all the internships aalable mostly for IIT and NIT students, some are also for other Indian college students.
-
-This contains the list of almost all the Internships not only for IIT, NIT, IIIT or BITS students but also for all other Indian college students studying not only engineering but also for students pursuing life science or other streams as well.
+## This contains the list of almost all the Internships not only for IIT, NIT, IIIT or BITS students but also for all other Indian college students studying not only engineering but also for students pursuing life science or other streams as well.
 
 The following are some global research internship positions:
 # -------- International Internships --------
