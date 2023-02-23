@@ -1,6 +1,8 @@
-# List-of-all-Research-Internship-Program-for-IIT-and-NITs
+# List-of-all-Research-Internship-Program-for-Indian-College-Students
 
-This contains the list of almost all the internship available mostly for IIT and NIT students some are also for other indian college students.
+This contains the list of almost all the internships aalable mostly for IIT and NIT students, some are also for other Indian college students.
+
+This contains the list of almost all the Internships not only for IIT, NIT, IIIT or BITS students but also for all other Indian college students studying not only engineering but also for students pursuing life science or other streams as well.
 
 The following are some global research internship positions:
 # -------- International Internships --------
@@ -26,12 +28,15 @@ The following are some global research internship positions:
 * stipend: CHF 1750 
   #### Deadline: 15 December
   
-### 4. [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/)
+### 4. [Max Planck Institute for Software Systems](https://www.cis.mpg.de/internships/)
 * Only For circuital branch students and mosty for computer science student
+* Remotely can be done as well in case of COVID19 travel restriction.
+#### Deadline: 1 November
 
-### 5. [EPFL E3 Program](https://eee.epfl.ch/e3program-at-a-glance/)
+### 5. [EPFL E3 Program](https://actu.epfl.ch/news/apply-to-the-e3-epfl-excellence-in-engineering-pro/)
 * By EPFL University in Switzerland
-  #### Deadline: 31 January
+* 2nd year students can also apply for internship
+  #### Deadline: 1st December
   
 ### 6. [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
 * To do research in USA industries along with UCLA Maths Department 
@@ -53,7 +58,7 @@ The following are some global research internship positions:
 ### 10. [Hybrid NanoTechnology, New York University](https://engineering.nyu.edu/research/student-research/undergraduate-summer-research-program)
 #### *** Only For Female Students 
 #### Eligibility : CGPA>=8
-#### DeadLine: 28 October.
+#### Deadline: 28 October
 
 ### 11. [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/schools/research-experiences-undergraduates)
 #### Deadline: January 15
@@ -325,6 +330,11 @@ The following are some global research internship positions:
 * Best for students who wants to do research in statistics, probability, or mathematical finance
 * Stipend - £350 per week (8 week programme)
 #### Deadline: 12 February
+
+### 72.[UNDP Geospatial Data Science Internship](https://jobs.undp.org/cj_view_job.cfm?cur_job_id=110994)
+* Minimum eligiblity is that student must be in final year of bachelor
+* Stipend - £350 per week (8 week programme)
+#### Deadline: 31 January
 
 
 # -------- For Indian Internships (For 2nd Year and 3rd Year) --------
