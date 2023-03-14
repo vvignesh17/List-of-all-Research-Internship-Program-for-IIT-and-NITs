@@ -334,6 +334,10 @@ The following are some global research internship positions:
 * Stipend - £350 per week (8 week programme)
 #### Deadline: 31 January
 
+### 73.[Arizona State University SURI Internship](https://graduate.engineering.asu.edu/suri/)
+* Minimum eligiblity is that student must be in third year or final year of bachelor
+* Stipend - $5,000 stipend and some living expenses (8 week programme)
+#### Deadline: 1st February
 
 
 
