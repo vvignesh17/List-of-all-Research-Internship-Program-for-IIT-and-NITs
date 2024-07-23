@@ -495,3 +495,7 @@ The following are some global research internship positions:
 ### 42.[Summer Internship in IIT Hyderabad](https://ee.iith.ac.in/intern.html)
 * Only for candidates from EE, ECE and EI background are eligible to apply
 #### Deadline: 21 March
+
+### 43.[Prof. G.S. Ramaswamy Summer Internship in CSIR-SERC Chennai](https://serc.res.in/professor-gs-ramaswamy-internship-undergraduate-dual-degree-students)
+* Research internship with Rs.15k per month stipend for Civil/Mechanical Engineering students
+#### Deadline: April
